@@ -15,3 +15,4 @@ Okay, I believe I've explained a lot already! But I'll leave the rest for explor
 Credits / Citations:
 - I want to give credit to my Data Structures instructor for providing the necessary code to setup the UI framework and initial Trie structure along with instructional material in class to help me brainstorm and build my project.
 - Movie background pictures for the Dark Knight Rises, Toy Story, and Iron Man were taken from the internet.
+- Movie transcripts for TDK rises, Toy Story, and Iron Man were taken from online sources.
